@@ -136,3 +136,7 @@ int main() {
 * [CodeBlocks](https://www.geeksforgeeks.org/how-to-install-code-blocks-for-c-on-windows/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/cpp/config-mingw)
 * Текстов редактор и компилиране "на ръка" през терминала
+
+---
+
+## [Задачи](tasks.md)
