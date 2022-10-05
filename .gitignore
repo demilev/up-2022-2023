@@ -33,6 +33,7 @@
 
 # VSCode specifics
 .vscode
+*DS_Store
 
 # Build folder
 */build
