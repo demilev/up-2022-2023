@@ -118,4 +118,4 @@ if (condition) {
 ```
 
 
-## [Задачи](tasks.md)
+## [Задачи](tasks.md) - [Решения](solutions/)
