@@ -47,7 +47,4 @@ int main() {
 
 ```
 
-## [Задачи](tasks.md)
-
-
-https://meet.google.com/hmj-fwcd-nvx
+## [Задачи](tasks.md) - [Решения](solutions/)
