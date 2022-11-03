@@ -115,3 +115,8 @@ int main()
 ## [Задачи](tasks.md)
 
 ## [Домашна работа](homework/)
+
+
+
+
+https://meet.google.com/duz-fbaf-ykb
