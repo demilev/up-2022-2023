@@ -112,11 +112,6 @@ int main()
 }
 ```
 
-## [Задачи](tasks.md)
+## [Задачи](tasks.md) - [Решения](solutions/)
 
 ## [Домашна работа](homework/)
-
-
-
-
-https://meet.google.com/duz-fbaf-ykb
