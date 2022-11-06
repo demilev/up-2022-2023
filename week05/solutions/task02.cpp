@@ -18,7 +18,7 @@ int main()
     if (n <= 0 || n > 20)
     {
         std::cout << "Invaild innput size: " << n << ". The size must be in the range [0, 20]." << std::endl;
-        return -1;
+        return 1;
     }
 
     for (int i = 0; i < n; i++)
