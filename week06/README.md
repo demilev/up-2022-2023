@@ -36,3 +36,6 @@ strcmp(arr1, arr2);
 ```
 
 ## [Задачи](tasks.md)
+
+
+https://meet.google.com/czj-pkyx-htt
