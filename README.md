@@ -21,3 +21,8 @@
 
 * [Задачи](week05/tasks.md)
 * [Домашна работа](week05/homework/)
+
+[Седмица 6](week06/) - Масиви и низове, част 2
+
+* [Задачи](week06/tasks.md)
+* [Cheatsheet](week06/arrays-cheatsheet.md)
