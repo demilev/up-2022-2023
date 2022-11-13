@@ -35,7 +35,4 @@ char arr2[10] = "abdf";
 strcmp(arr1, arr2);
 ```
 
-## [Задачи](tasks.md)
-
-
-https://meet.google.com/czj-pkyx-htt
+## [Задачи](tasks.md) - [Решения](solutions.md)
