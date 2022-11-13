@@ -35,4 +35,4 @@ char arr2[10] = "abdf";
 strcmp(arr1, arr2);
 ```
 
-## [Задачи](tasks.md) - [Решения](solutions.md)
+## [Задачи](tasks.md) - [Решения](solutions)
