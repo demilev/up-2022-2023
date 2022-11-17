@@ -26,3 +26,7 @@
 
 * [Задачи](week06/tasks.md)
 * [Cheatsheet](week06/arrays-cheatsheet.md)
+
+[Седмица 7](week07/) - Матрици
+
+* [Задачи](week07/tasks.md)
