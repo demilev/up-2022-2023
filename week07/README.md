@@ -78,4 +78,4 @@ int main()
 int x[2][3][5];
 ```
 
-## [Задачи](tasks.md)
+## [Задачи](tasks.md) - [Решения](solutions/)
