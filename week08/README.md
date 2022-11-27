@@ -107,4 +107,4 @@ int main()
 ```
 
 
-## [Задачи](tasks.md)
+## [Задачи](tasks.md) - [Решения](solutions/)
