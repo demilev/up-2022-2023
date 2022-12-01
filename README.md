@@ -34,3 +34,8 @@
 [Седмица 8](week08/) - Референции и указатели
 
 * [Задачи](week08/tasks.md)
+
+[Седмица 9](week09/) - Рекурсия
+
+* [Задачи](week09/tasks.md)
+* [Анкета](https://www.surveymonkey.com/r/ST93N8K)
