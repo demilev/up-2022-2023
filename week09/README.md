@@ -64,4 +64,4 @@ int f()
 ```
 
 
-## [Задачи](tasks.md)
+## [Задачи](tasks.md) - [Решения](solutions/)
