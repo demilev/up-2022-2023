@@ -18,7 +18,4 @@ backtrack(P, c) {
 }
 ```
 
-## [Задачи](tasks.md)
-
-
-https://meet.google.com/qnq-nhky-kzj
+## [Задачи](tasks.md) - [Решения](solutions/)
