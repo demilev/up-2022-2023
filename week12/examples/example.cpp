@@ -1,32 +1,51 @@
 #include <iostream>
 
-struct Student {
+struct Student
+{
     int fn;
     char name[50];
 
-    void print()
+    void printName()
     {
-        std::cout << "The name of the student is " << name << std::endl;
-        std::cout << "The faculty number of the student is " << fn << std::endl;
+        std::cout << "The name is: " << name << std::endl;
     }
 };
 
-void printStudent(Student x)
+void print(char str[])
 {
-    std::cout << "The name of the student is " << x.name << std::endl;
-    std::cout << "The faculty number of the student is " << x.fn << std::endl;
+    std::cout << "str is: " << str << std::endl;
 }
 
+void printName(Student& s)
+{   
+    s.fn = 123;
+    std::cout << "The name is: " << s.name << std::endl;
+}
 
 int main()
 {
+    int x = 3;
+    int y = 5;
+    int z = x + y;
+    bool b = true;
 
-    Student x;
-    std::cin.getline(x.name, 50);
-    std::cin >> x.fn;
+    Student s;
+    s.fn = 81352;
+    
+    std::cin.getline(s.name, 50);
+    
+    // print(s.name);
+    
+    // printName(s);
+    
+    s.printName();
+    // std::cout << "The fn is: " << s.fn << std::endl;
 
-    printStudent(x);
+    Student s1;
+    std::cin.getline(s1.name, 50);
 
-    x.print();
+    s1.printName();
+
+
     return 0;
 }
