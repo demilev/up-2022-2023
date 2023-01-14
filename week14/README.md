@@ -59,4 +59,4 @@ file.write(buf, 5);
 
 
 
-## [Задачи](tasks.md)
+## [Задачи](tasks.md) - [Решения](solutions/)
