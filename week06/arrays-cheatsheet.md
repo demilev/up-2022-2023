@@ -160,7 +160,7 @@ https://classes.mst.edu/compsci1570/ntcafunctions.htm
 ```c++
 // strlen - дава размерът на низа
 char arr[] = "Hello";
-std::cout << strlen(array); // 5
+std::cout << strlen(arr); // 5
 
 // strcmp - сравнява лексикографски двата низа и връща отрицателно число, ако първият е по-малък лексикографски, 0 ако двата низа са еднакви и положително число, ако първият е по-голям лексикографски
 char arr1[] = "Hello";
@@ -173,7 +173,7 @@ std::cout << strcmp(arr1, arr1); // нула
 // strcpy - копира съдържанието на втория низ в първия
 char arr[10];
 char arr1[] = "Hello";
-strcpy(array, array1);
+strcpy(arr, arr1);
 std::cout << arr; // Hello
 ```
 
